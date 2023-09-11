@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=duranduman06&label=Profile%20views&color=0e75b6&style=flat" alt="duranduman06" /> </p>
 
-- 🌱 I’m currently learning **openCV , JS , React.JS**
+- 🌱 I’m currently learning **openCV , JS , React.js**
 
 - 📫 How to reach me **duran.duman@outlook.com**
 
